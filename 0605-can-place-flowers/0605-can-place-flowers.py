@@ -15,13 +15,10 @@ class Solution:
 
         # left border
         if flowerbed[0] == Const.FREE:
-            if size > 1:
-                if flowerbed[1] == Const.FREE:
-                    flowerbed[0] = Const.PLANTED
-                    plantedCount += 1
-            else:
+            if flowerbed[1] == Const.FREE:
                 flowerbed[0] = Const.PLANTED
                 plantedCount += 1
+            
 
         # middle
         for idx in range(1, size-1):
@@ -39,11 +36,7 @@ class Solution:
 
         # right border
         if flowerbed[size-1] == Const.FREE:
-            if size > 1:
-                if flowerbed[size-2] == Const.FREE:
-                    flowerbed[size-1] = Const.PLANTED
-                    plantedCount += 1
-            else:
+            if flowerbed[size-2] == Const.FREE:
                 flowerbed[size-1] = Const.PLANTED
                 plantedCount += 1
 
