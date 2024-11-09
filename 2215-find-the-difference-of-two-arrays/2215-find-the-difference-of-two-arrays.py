@@ -3,15 +3,20 @@ class Solution:
         result = [[],[]]
         appended = {}
 
-        for n in nums1:
-            if n not in nums2 and n not in appended:
-                result[0].append(n)
-                appended[n] = True
-        
-        for n in nums2:
-            if n not in nums1 and n not in appended:
-                result[1].append(n)
-                appended[n] = True
+        nums1Set = set(nums1)
+        nums2Set = set(nums2)
+
+        def findUniqueNums(targetList, compareSet):
+            result = []
+            for n in targetList:
+                if n not in compareSet and n not in appended:
+                    result.append(n)
+                    appended[n] = True    
+            
+            return result
+
+        result[0] = findUniqueNums(nums1, nums2Set)
+        result[1] = findUniqueNums(nums2, nums1Set)
 
         return result
         
