@@ -1,20 +1,19 @@
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
         size = len(nums)
-        prefix = [1] * size
-        suffix = [1] * size
-
+        result = [1] * size
+        
+        # prefix
         curMul = 1
         for i in range(1,size):
             curMul *= nums[i-1]
-            prefix[i] = curMul
+            result[i] *= curMul
         
+        # suffix
         curMul = 1
         for i in range(size-2, -1, -1):
             curMul *= nums[i+1]
-            suffix[i] = curMul
-        
-        result = [prefix[i]*suffix[i] for i in range(size)]
+            result[i] *= curMul
 
         return result
             
