@@ -25,7 +25,8 @@ class Solution:
             if pA == pB:
                 return pA
             
-            pA = pA.next if pA else headB
-            pB = pB.next if pB else headA
+            pA = pA.next if pA.next else headB
+            pB = pB.next if pB.next else headA
 
         return None
+        
