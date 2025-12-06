@@ -9,7 +9,6 @@ class Solution:
         table = set()
 
         while head != None:
-            print(head.val)
             if id(head) in table:
                 return True
             
