@@ -1,21 +1,14 @@
 # The isBadVersion API is already defined for you.
 # def isBadVersion(version: int) -> bool:
 
-class Solution:
-    def firstBadVersion(self, n: int) -> int:
-        result = 1
-        start = 1
-        end = n
-        mid = (start+end) // 2
-
-        while start <= end:
-            if not isBadVersion(mid):
-                start = mid+1
-                mid = (start+end) // 2
-                continue
-            
-            result = mid
-            end = mid-1
-            mid = (start+end) // 2
-
-        return result
+class Solution(object):
+    def firstBadVersion(self, n):
+        left, right = 1, n
+        while left <= right:
+            mid = (left + right) // 2
+            if isBadVersion(mid):
+                right = mid - 1
+            else:
+                left = mid + 1
+        return left
+        
