@@ -3,16 +3,16 @@ class Solution:
         result = []
         subResult = []
 
-        def dfs(startIdx, depth):
-            if depth == k:
+        def dfs(startIdx):
+            if len(subResult) == k:
                 result.append(subResult[:])
                 return
             
             for i in range(startIdx, n+1):
                 subResult.append(i)
-                dfs(i+1, depth+1)
+                dfs(i+1)
                 subResult.pop()
         
-        dfs(1, 0)
+        dfs(1)
 
         return result
