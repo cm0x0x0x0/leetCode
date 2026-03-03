@@ -1,25 +1,20 @@
 class Solution:
     def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
         result = []
-        lastIdx = len(nums2)-1
+        st = []
+        table = dict()
+
+        for n2 in nums2:
+            while st and st[-1] < n2:    
+                table[st.pop()] = n2
+            st.append(n2)
 
         for n1 in nums1:
-            equalFind = False
-            addNum = -1
-            for idx,n2 in enumerate(nums2):
-                if n1 == n2:
-                    equalFind = True
-                    continue
-                
-                if not equalFind:
-                    continue
-                
-                if n1 < n2:
-                    addNum = n2
-                    break
-                
-            result.append(addNum)
-        
+            if n1 not in table:
+                result.append(-1)
+            else:
+                result.append(table[n1])
+
         return result
 
 
