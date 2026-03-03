@@ -5,7 +5,7 @@ class Solution:
 
         for n1 in nums1:
             equalFind = False
-            find = False
+            addNum = -1
             for idx,n2 in enumerate(nums2):
                 if n1 == n2:
                     equalFind = True
@@ -15,12 +15,10 @@ class Solution:
                     continue
                 
                 if n1 < n2:
-                    result.append(n2)
-                    find = True
+                    addNum = n2
                     break
                 
-            if not find:
-                result.append(-1)
+            result.append(addNum)
         
         return result
 
