@@ -17,4 +17,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/cm0x0x0x0/leetCode/tree/main/0496-next-greater-element-i/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/cm0x0x0x0/leetCode/tree/main/0657-robot-return-to-origin/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/cm0x0x0x0/leetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 <!---LeetCode Topics End-->
