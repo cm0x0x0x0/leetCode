@@ -15,5 +15,4 @@ class Solution:
             else:
                 downCount += 1
         
-        print(leftCount, rightCount, upCount, downCount)
         return leftCount == rightCount and upCount == downCount
