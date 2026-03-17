@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0414-third-maximum-number](https://github.com/cm0x0x0x0/leetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/cm0x0x0x0/leetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0463-island-perimeter](https://github.com/cm0x0x0x0/leetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0496-next-greater-element-i](https://github.com/cm0x0x0x0/leetCode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -56,5 +57,6 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0414-third-maximum-number](https://github.com/cm0x0x0x0/leetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/cm0x0x0x0/leetCode/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
