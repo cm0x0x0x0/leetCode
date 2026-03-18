@@ -24,6 +24,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0415-add-strings](https://github.com/cm0x0x0x0/leetCode/tree/main/0415-add-strings/) | Easy |
+| [0434-number-of-segments-in-a-string](https://github.com/cm0x0x0x0/leetCode/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/cm0x0x0x0/leetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
