@@ -38,6 +38,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/cm0x0x0x0/leetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0415-add-strings](https://github.com/cm0x0x0x0/leetCode/tree/main/0415-add-strings/) | Easy |
 | [0441-arranging-coins](https://github.com/cm0x0x0x0/leetCode/tree/main/0441-arranging-coins/) | Easy |
 ## Depth-First Search
@@ -76,6 +77,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/cm0x0x0x0/leetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0705-design-hashset](https://github.com/cm0x0x0x0/leetCode/tree/main/0705-design-hashset/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -85,4 +87,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/cm0x0x0x0/leetCode/tree/main/0705-design-hashset/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/cm0x0x0x0/leetCode/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
