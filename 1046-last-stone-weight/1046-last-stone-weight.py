@@ -16,13 +16,16 @@ class Solution:
             heapq.heappush(hq, -st)
 
         while len(hq) > 1:
-            x = heapq.heappop(hq)
-            y = heapq.heappop(hq)
+            x = -heapq.heappop(hq)
+            y = -heapq.heappop(hq)
             k = smash(x,y)
+
+            if k == 0:
+                continue
 
             heapq.heappush(hq, -k)
 
-        return hq[0] * (-1)
+        return hq[0] * (-1) if hq else 0
 
 
 
