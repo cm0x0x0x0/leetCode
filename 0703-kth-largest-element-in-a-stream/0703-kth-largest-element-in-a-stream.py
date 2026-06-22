@@ -1,36 +1,21 @@
 class KthLargest:
-    minNum = -10**4
+    MIN = float("-inf")
 
-    def __init__(self, k: int, nums: List[int]):
-        temp = sorted(nums, reverse=True)
+    def __init__(self, k, nums):
         self.k = k
-        self.nums = temp[:k]
-        self.nums += [self.minNum] * (self.k - len(self.nums))
-        
+        self.nums = sorted(nums, reverse=True)[:k]
 
-    def add(self, val: int) -> int:
-        if val <= self.nums[self.k-1]:
-            return self.nums[self.k-1]
-        
-        newArr = [0] * self.k
-        idx = 0
-        while idx < len(self.nums):
-            if val > self.nums[idx]:
-                newArr[idx] = val
-                newArr[idx+1:self.k] = self.nums[idx:self.k-1]
+        while len(self.nums) < k:
+            self.nums.append(self.MIN)
+
+    def add(self, val):
+        if val <= self.nums[-1]:
+            return self.nums[-1]
+
+        for i in range(self.k):
+            if val > self.nums[i]:
+                self.nums.insert(i, val)
+                self.nums.pop()
                 break
-            
-            newArr[idx] = self.nums[idx]
-            idx += 1
-        
-        self.nums = newArr
-        result = self.nums[self.k-1]
-        return result if result >= self.minNum else 0
 
-        
-
-
-
-# Your KthLargest object will be instantiated and called as such:
-# obj = KthLargest(k, nums)
-# param_1 = obj.add(val)
+        return self.nums[-1]
