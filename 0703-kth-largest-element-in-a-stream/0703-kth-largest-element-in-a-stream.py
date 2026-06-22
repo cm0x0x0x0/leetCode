@@ -1,21 +1,19 @@
+import heapq
+
 class KthLargest:
     MIN = float("-inf")
 
     def __init__(self, k, nums):
         self.k = k
         self.nums = sorted(nums, reverse=True)[:k]
-
-        while len(self.nums) < k:
-            self.nums.append(self.MIN)
+        heapq.heapify(self.nums)
 
     def add(self, val):
-        if val <= self.nums[-1]:
-            return self.nums[-1]
+        if len(self.nums) < self.k:
+            heapq.heappush(self.nums, val)
+        elif val > self.nums[0]:
+            heapq.heappush(self.nums, val)
+            heapq.heappop(self.nums)
+    
 
-        for i in range(self.k):
-            if val > self.nums[i]:
-                self.nums.insert(i, val)
-                self.nums.pop()
-                break
-
-        return self.nums[-1]
+        return self.nums[0] if len(self.nums) == self.k else 0
