@@ -1,37 +1,20 @@
 class Solution:
     def partitionLabels(self, s: str) -> List[int]:
-        table = dict()
-        partitions = []
-        curIdx = 0
+        result = []
+        last = {}
+        start = 0
+        end = 0
 
-        for char in s:
-            if char in table:
-                tableIdx = table[char]
-                for i in range(tableIdx+1, curIdx):
-                    partitions[tableIdx] += partitions[i]
-                    for c in partitions[i]:
-                        table[c] = tableIdx
-
-                    partitions[i] = ""
-                
-                partitions[tableIdx] += char
-                curIdx = tableIdx+1
-                continue
-            
-            if len(partitions) <= curIdx:
-                partitions.append(char)
-            else:
-                partitions[curIdx] += char
-
-            table[char] = curIdx
-            curIdx += 1
+        for idx, c in enumerate(s):
+            last[c] = idx
         
 
-        result = []
-        for part in partitions:
-            if part == "":
-                continue
-            
-            result.append(len(part))
+        for idx, c in enumerate(s):
+            end = max(end, last[c])
+
+            if idx == end:
+                result.append(end-start+1)
+                start = end+1
         
         return result
+
