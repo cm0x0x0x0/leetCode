@@ -7,33 +7,22 @@
 class Solution:
     def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
         result = -1
-        arr = []
         cnt = 0
-        find = False
 
         def dfs(node):
-            nonlocal cnt, result, arr
-            if node.left == None and node.right == None:
-                arr.append(node.val)
-                cnt += 1
-                if cnt == k:
-                    result = node.val
-                return
-                
-            if node.left != None:
-                dfs(node.left)
-                if cnt == k:
-                    return
+            nonlocal cnt, result
 
-            arr.append(node.val)
+            if not node or result != -1:
+                return
+            
+            dfs(node.left)
+
             cnt += 1
             if cnt == k:
                 result = node.val
                 return
-
-            if node.right != None:
-                dfs(node.right)
             
-
+            dfs(node.right)
+            
         dfs(root)
-        return root.val if result == -1 else result
+        return result
