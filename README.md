@@ -57,6 +57,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/cm0x0x0x0/leetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0463-island-perimeter](https://github.com/cm0x0x0x0/leetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/cm0x0x0x0/leetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/cm0x0x0x0/leetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +88,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0459-repeated-substring-pattern](https://github.com/cm0x0x0x0/leetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/cm0x0x0x0/leetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +106,7 @@
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/cm0x0x0x0/leetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0705-design-hashset](https://github.com/cm0x0x0x0/leetCode/tree/main/0705-design-hashset/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -123,6 +126,7 @@
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/cm0x0x0x0/leetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/cm0x0x0x0/leetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/cm0x0x0x0/leetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/cm0x0x0x0/leetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -134,6 +138,7 @@
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/cm0x0x0x0/leetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/cm0x0x0x0/leetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/cm0x0x0x0/leetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/cm0x0x0x0/leetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
