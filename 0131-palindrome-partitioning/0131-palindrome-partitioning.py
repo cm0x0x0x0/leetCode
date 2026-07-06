@@ -14,15 +14,14 @@ class Solution:
         def dfs(s, curList, idx, l):
             nonlocal result
             if idx == l:
-                for candidate in curList:
-                    if not isPalindrome(candidate):
-                        return
-                
                 result.append(curList)
                 return
 
             
             for j in range(idx+1, l+1):
+                if not isPalindrome(s[idx:j]):
+                    continue
+
                 dfs(s, curList + [s[idx:j]], j, l)
             
             
