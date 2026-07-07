@@ -1,7 +1,7 @@
 class Solution:
     def maxAreaOfIsland(self, grid: List[List[int]]) -> int:
         result = 0
-        visited = dict()
+        visited = set()
         rowSize = len(grid)
         colSize = len(grid[0])
 
@@ -23,14 +23,13 @@ class Solution:
             return False
 
         def dfs(row, col):
-            nonlocal result
             if (row,col) in visited:
                 return 0
             
             if grid[row][col] == 0:
                 return 0
 
-            visited[(row,col)] = True
+            visited.add((row,col))
 
             area = 1
             for dr, dc in delta:
