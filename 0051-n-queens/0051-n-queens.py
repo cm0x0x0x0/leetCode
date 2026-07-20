@@ -2,8 +2,6 @@ class Solution:
     def solveNQueens(self, n: int) -> List[List[str]]:
         result = []
         delta = [
-            (0, 1), 
-            (0, -1),
             (1, 0),
             (-1, 0),
             (1, 1),
@@ -45,7 +43,6 @@ class Solution:
             return visited[row][col] == -1
 
         def dfs(row, matrixResult):
-            nonlocal result
             if row == n:
                 result.append(matrixResult)
                 return
