@@ -8,6 +8,7 @@
 | [0039-combination-sum](https://github.com/cm0x0x0x0/leetCode/tree/main/0039-combination-sum/) | Medium |
 | [0048-rotate-image](https://github.com/cm0x0x0x0/leetCode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/cm0x0x0x0/leetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0051-n-queens](https://github.com/cm0x0x0x0/leetCode/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/cm0x0x0x0/leetCode/tree/main/0078-subsets/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/cm0x0x0x0/leetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0414-third-maximum-number](https://github.com/cm0x0x0x0/leetCode/tree/main/0414-third-maximum-number/) | Easy |
@@ -172,6 +173,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/cm0x0x0x0/leetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/cm0x0x0x0/leetCode/tree/main/0039-combination-sum/) | Medium |
+| [0051-n-queens](https://github.com/cm0x0x0x0/leetCode/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/cm0x0x0x0/leetCode/tree/main/0078-subsets/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/cm0x0x0x0/leetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Bit Manipulation
