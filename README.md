@@ -60,6 +60,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/cm0x0x0x0/leetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/cm0x0x0x0/leetCode/tree/main/0048-rotate-image/) | Medium |
+| [0062-unique-paths](https://github.com/cm0x0x0x0/leetCode/tree/main/0062-unique-paths/) | Medium |
 | [0415-add-strings](https://github.com/cm0x0x0x0/leetCode/tree/main/0415-add-strings/) | Easy |
 | [0441-arranging-coins](https://github.com/cm0x0x0x0/leetCode/tree/main/0441-arranging-coins/) | Easy |
 ## Depth-First Search
@@ -187,6 +188,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/cm0x0x0x0/leetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0062-unique-paths](https://github.com/cm0x0x0x0/leetCode/tree/main/0062-unique-paths/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/cm0x0x0x0/leetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0647-palindromic-substrings](https://github.com/cm0x0x0x0/leetCode/tree/main/0647-palindromic-substrings/) | Medium |
 ## Union-Find
@@ -202,4 +204,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/cm0x0x0x0/leetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/cm0x0x0x0/leetCode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
