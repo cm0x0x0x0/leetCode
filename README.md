@@ -18,6 +18,7 @@
 | [0496-next-greater-element-i](https://github.com/cm0x0x0x0/leetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0695-max-area-of-island](https://github.com/cm0x0x0x0/leetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0705-design-hashset](https://github.com/cm0x0x0x0/leetCode/tree/main/0705-design-hashset/) | Easy |
+| [0778-swim-in-rising-water](https://github.com/cm0x0x0x0/leetCode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1046-last-stone-weight](https://github.com/cm0x0x0x0/leetCode/tree/main/1046-last-stone-weight/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -71,6 +72,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/cm0x0x0x0/leetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/cm0x0x0x0/leetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/cm0x0x0x0/leetCode/tree/main/0695-max-area-of-island/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/cm0x0x0x0/leetCode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/cm0x0x0x0/leetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -78,6 +80,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/cm0x0x0x0/leetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0463-island-perimeter](https://github.com/cm0x0x0x0/leetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0695-max-area-of-island](https://github.com/cm0x0x0x0/leetCode/tree/main/0695-max-area-of-island/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/cm0x0x0x0/leetCode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/cm0x0x0x0/leetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -85,6 +88,7 @@
 | [0048-rotate-image](https://github.com/cm0x0x0x0/leetCode/tree/main/0048-rotate-image/) | Medium |
 | [0463-island-perimeter](https://github.com/cm0x0x0x0/leetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0695-max-area-of-island](https://github.com/cm0x0x0x0/leetCode/tree/main/0695-max-area-of-island/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/cm0x0x0x0/leetCode/tree/main/0778-swim-in-rising-water/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +118,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0441-arranging-coins](https://github.com/cm0x0x0x0/leetCode/tree/main/0441-arranging-coins/) | Easy |
+| [0778-swim-in-rising-water](https://github.com/cm0x0x0x0/leetCode/tree/main/0778-swim-in-rising-water/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +147,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/cm0x0x0x0/leetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/cm0x0x0x0/leetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0778-swim-in-rising-water](https://github.com/cm0x0x0x0/leetCode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1046-last-stone-weight](https://github.com/cm0x0x0x0/leetCode/tree/main/1046-last-stone-weight/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -195,6 +201,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0695-max-area-of-island](https://github.com/cm0x0x0x0/leetCode/tree/main/0695-max-area-of-island/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/cm0x0x0x0/leetCode/tree/main/0778-swim-in-rising-water/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
