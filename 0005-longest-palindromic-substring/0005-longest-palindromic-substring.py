@@ -12,38 +12,22 @@ class Solution:
             if left >= size or right >= size:
                 return True
             
-
             return False
         
 
         def find(left, right):
-            nonlocal result, resultLen
-            if s[left] != s[right]:
-                return
+            nonlocal result
 
-            if s[left] == s[right] and resultLen < (right-left+1):
-                result = s[left:right+1]
-                resultLen = right-left+1
-            
-            newLeft = left-1
-            newRight = right + 1
-            if not isOut(newLeft, newRight):
-                find(newLeft, newRight)
+            while not isOut(left, right) and s[left] == s[right]:
+                if right-left+1 > len(result):
+                    result = s[left:right+1]
+
+                left -= 1
+                right += 1
                 
-        
-        # odd
-        for i in range(1, size-1):
-            left = i
-            right = i
-            if not isOut(left, right):
-                find(left, right)
-        
 
-        # even
-        for i in range(0, size-1):
-            left = i
-            right = i+1
-            if not isOut(left, right):
-                find(left, right)
+        for i in range(size):
+            find(i, i) # odd
+            find(i, i+1) # even
 
         return result
