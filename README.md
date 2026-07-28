@@ -42,6 +42,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/cm0x0x0x0/leetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/cm0x0x0x0/leetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/cm0x0x0x0/leetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/cm0x0x0x0/leetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/cm0x0x0x0/leetCode/tree/main/0049-group-anagrams/) | Medium |
@@ -94,6 +95,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/cm0x0x0x0/leetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/cm0x0x0x0/leetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0455-assign-cookies](https://github.com/cm0x0x0x0/leetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0647-palindromic-substrings](https://github.com/cm0x0x0x0/leetCode/tree/main/0647-palindromic-substrings/) | Medium |
@@ -196,6 +198,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/cm0x0x0x0/leetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/cm0x0x0x0/leetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0062-unique-paths](https://github.com/cm0x0x0x0/leetCode/tree/main/0062-unique-paths/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/cm0x0x0x0/leetCode/tree/main/0131-palindrome-partitioning/) | Medium |
