@@ -3,7 +3,7 @@ class Solution:
         size = len(s)
         
         result = s[0]
-        resultLen = 0
+        resultLen = 1
 
         def isOut(left, right):
             if left < 0 or right < 0:
@@ -33,8 +33,8 @@ class Solution:
         
         # odd
         for i in range(1, size-1):
-            left = i-1
-            right = i+1
+            left = i
+            right = i
             if not isOut(left, right):
                 find(left, right)
         
