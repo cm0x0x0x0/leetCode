@@ -22,6 +22,7 @@
 | [0705-design-hashset](https://github.com/cm0x0x0x0/leetCode/tree/main/0705-design-hashset/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/cm0x0x0x0/leetCode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1046-last-stone-weight](https://github.com/cm0x0x0x0/leetCode/tree/main/1046-last-stone-weight/) | Easy |
+| [1584-min-cost-to-connect-all-points](https://github.com/cm0x0x0x0/leetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -214,6 +215,7 @@
 | ------- | ------- |
 | [0695-max-area-of-island](https://github.com/cm0x0x0x0/leetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/cm0x0x0x0/leetCode/tree/main/0778-swim-in-rising-water/) | Hard |
+| [1584-min-cost-to-connect-all-points](https://github.com/cm0x0x0x0/leetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -227,4 +229,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/cm0x0x0x0/leetCode/tree/main/0062-unique-paths/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/cm0x0x0x0/leetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Minimum Spanning Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/cm0x0x0x0/leetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Prim's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/cm0x0x0x0/leetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Kruskal's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/cm0x0x0x0/leetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Borůvka's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/cm0x0x0x0/leetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 <!---LeetCode Topics End-->
