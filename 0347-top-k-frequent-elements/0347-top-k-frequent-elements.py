@@ -22,9 +22,9 @@ class Solution:
             for n in bucket[cnt]:
                 result.append(n)
             
-            if len(result) == k:
-                break
+                if len(result) == k:
+                    return result
         
-        return result
+        return []
             
         
