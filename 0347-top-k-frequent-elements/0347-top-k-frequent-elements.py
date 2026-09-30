@@ -13,7 +13,8 @@ class Solution:
         for (n, cnt) in table.items():
             sortedList.append((n, cnt))
         
-        sortedList.sort(key=lambda x: x[1], reverse=True)
+        # sortedList.sort(key=lambda x: x[1], reverse=True)
+        sortedList = sorted(sortedList, key=lambda x: x[1], reverse=True)
 
 
         for i in range(k):
