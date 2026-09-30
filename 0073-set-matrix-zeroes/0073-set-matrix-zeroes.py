@@ -1,24 +1,20 @@
 class Solution:
     def setZeroes(self, matrix: list[list[int]]) -> None:
-        """
-        Do not return anything, modify matrix in-place instead.
-        """
         m = len(matrix)
         n = len(matrix[0])
 
-        def setToZero(row, col):
-            for r in range(m):
-                matrix[r][col] = 0
+        zeroRows = [False] * m
+        zeroCols = [False] * n
 
-            for c in range(n):
-                matrix[row][c] = 0
-            
-        zeroRowCols = []
+        # 0이 있는 행/열 기록
         for r in range(m):
             for c in range(n):
                 if matrix[r][c] == 0:
-                    zeroRowCols.append((r,c))
-        
-        for r,c in zeroRowCols:
-            setToZero(r,c)
-        
+                    zeroRows[r] = True
+                    zeroCols[c] = True
+
+        # 기록한 행/열을 0으로 변경
+        for r in range(m):
+            for c in range(n):
+                if zeroRows[r] or zeroCols[c]:
+                    matrix[r][c] = 0
