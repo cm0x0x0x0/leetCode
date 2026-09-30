@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/cm0x0x0x0/leetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/cm0x0x0x0/leetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/cm0x0x0x0/leetCode/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/cm0x0x0x0/leetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0048-rotate-image](https://github.com/cm0x0x0x0/leetCode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/cm0x0x0x0/leetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/cm0x0x0x0/leetCode/tree/main/0051-n-queens/) | Hard |
@@ -204,6 +205,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/cm0x0x0x0/leetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/cm0x0x0x0/leetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/cm0x0x0x0/leetCode/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/cm0x0x0x0/leetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/cm0x0x0x0/leetCode/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/cm0x0x0x0/leetCode/tree/main/0078-subsets/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/cm0x0x0x0/leetCode/tree/main/0131-palindrome-partitioning/) | Medium |
