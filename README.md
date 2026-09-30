@@ -42,6 +42,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0143-reorder-list](https://github.com/cm0x0x0x0/leetCode/tree/main/0143-reorder-list/) | Medium |
 | [0496-next-greater-element-i](https://github.com/cm0x0x0x0/leetCode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -112,6 +113,7 @@
 | [0011-container-with-most-water](https://github.com/cm0x0x0x0/leetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/cm0x0x0x0/leetCode/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/cm0x0x0x0/leetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0143-reorder-list](https://github.com/cm0x0x0x0/leetCode/tree/main/0143-reorder-list/) | Medium |
 | [0455-assign-cookies](https://github.com/cm0x0x0x0/leetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0647-palindromic-substrings](https://github.com/cm0x0x0x0/leetCode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0763-partition-labels](https://github.com/cm0x0x0x0/leetCode/tree/main/0763-partition-labels/) | Medium |
@@ -146,6 +148,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/cm0x0x0x0/leetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/cm0x0x0x0/leetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0143-reorder-list](https://github.com/cm0x0x0x0/leetCode/tree/main/0143-reorder-list/) | Medium |
 | [0705-design-hashset](https://github.com/cm0x0x0x0/leetCode/tree/main/0705-design-hashset/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -162,6 +165,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/cm0x0x0x0/leetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/cm0x0x0x0/leetCode/tree/main/0010-regular-expression-matching/) | Hard |
+| [0143-reorder-list](https://github.com/cm0x0x0x0/leetCode/tree/main/0143-reorder-list/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
