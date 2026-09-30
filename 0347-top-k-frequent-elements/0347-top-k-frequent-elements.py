@@ -2,7 +2,7 @@ class Solution:
     def topKFrequent(self, nums: list[int], k: int) -> list[int]:
         result = []
         table = dict()
-        sortedList = []
+        size = len(nums)
 
         for n in nums:
             if n not in table:
@@ -10,16 +10,21 @@ class Solution:
             else:
                 table[n] += 1
         
-        for (n, cnt) in table.items():
-            sortedList.append((n, cnt))
+        bucket = [[] for _ in range(size + 1)]
+
+        for n, cnt in table.items():
+            bucket[cnt].append(n)
         
-        # sortedList.sort(key=lambda x: x[1], reverse=True)
-        sortedList = sorted(sortedList, key=lambda x: x[1], reverse=True)
+        for cnt in range(size, 0, -1):
+            if len(bucket[cnt]) == 0:
+                continue
 
-
-        for i in range(k):
-            result.append(sortedList[i][0])
-
+            for n in bucket[cnt]:
+                result.append(n)
+            
+            if len(result) == k:
+                break
+        
         return result
             
         
