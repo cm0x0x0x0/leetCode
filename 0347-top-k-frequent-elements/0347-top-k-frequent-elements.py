@@ -16,9 +16,6 @@ class Solution:
             bucket[cnt].append(n)
         
         for cnt in range(size, 0, -1):
-            if len(bucket[cnt]) == 0:
-                continue
-
             for n in bucket[cnt]:
                 result.append(n)
             
