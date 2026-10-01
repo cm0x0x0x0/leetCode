@@ -81,6 +81,7 @@
 | [0007-reverse-integer](https://github.com/cm0x0x0x0/leetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0048-rotate-image](https://github.com/cm0x0x0x0/leetCode/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/cm0x0x0x0/leetCode/tree/main/0062-unique-paths/) | Medium |
+| [0371-sum-of-two-integers](https://github.com/cm0x0x0x0/leetCode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0415-add-strings](https://github.com/cm0x0x0x0/leetCode/tree/main/0415-add-strings/) | Easy |
 | [0441-arranging-coins](https://github.com/cm0x0x0x0/leetCode/tree/main/0441-arranging-coins/) | Easy |
 ## Depth-First Search
@@ -231,6 +232,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/cm0x0x0x0/leetCode/tree/main/0078-subsets/) | Medium |
+| [0371-sum-of-two-integers](https://github.com/cm0x0x0x0/leetCode/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
