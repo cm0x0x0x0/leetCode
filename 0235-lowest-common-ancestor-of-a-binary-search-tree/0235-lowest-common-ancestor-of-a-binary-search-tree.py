@@ -25,11 +25,11 @@ class Solution:
         
         firstList = binarySearch(root, p.val)
         secondList = binarySearch(root, q.val)
-        firstValList = [x.val for x in firstList]
-        compSet = set(firstValList)
+        # firstValList = [x.val for x in firstList]
+        compSet = set(firstList)
     
         for n in reversed(secondList):
-            if n.val in compSet:
+            if n in compSet:
                 return n
         
         return TreeNode()
