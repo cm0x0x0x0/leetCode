@@ -80,6 +80,7 @@
 | [0002-add-two-numbers](https://github.com/cm0x0x0x0/leetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/cm0x0x0x0/leetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0048-rotate-image](https://github.com/cm0x0x0x0/leetCode/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/cm0x0x0x0/leetCode/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/cm0x0x0x0/leetCode/tree/main/0062-unique-paths/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/cm0x0x0x0/leetCode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0415-add-strings](https://github.com/cm0x0x0x0/leetCode/tree/main/0415-add-strings/) | Easy |
@@ -173,6 +174,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/cm0x0x0x0/leetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/cm0x0x0x0/leetCode/tree/main/0010-regular-expression-matching/) | Hard |
+| [0050-powx-n](https://github.com/cm0x0x0x0/leetCode/tree/main/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/cm0x0x0x0/leetCode/tree/main/0143-reorder-list/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
