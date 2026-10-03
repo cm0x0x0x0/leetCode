@@ -1,25 +1,14 @@
 class Solution:
     def canJump(self, nums: list[int]) -> bool:
-        curIdx = 0
-        size = len(nums)
-        if size == 1:
-            return True
+        maxReach = 0
 
-        while curIdx < size:
-            delta = 0
-            deltaIdx = 0
-            for j in range(1, nums[curIdx]+1):
-                if curIdx + j >= size-1:
-                    return True
+        for i in range(len(nums)):
+            if i > maxReach:
+                return False
 
-                temp = j + nums[curIdx+j]
-                if temp > delta:
-                    delta = temp
-                    deltaIdx = j
-            
-            curIdx += deltaIdx
+            maxReach = max(maxReach, i + nums[i])
 
-            if delta == 0:
-                break
+            if maxReach >= len(nums) - 1:
+                return True
 
         return False
