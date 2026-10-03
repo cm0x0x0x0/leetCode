@@ -17,6 +17,7 @@
 | [0051-n-queens](https://github.com/cm0x0x0x0/leetCode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/cm0x0x0x0/leetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/cm0x0x0x0/leetCode/tree/main/0054-spiral-matrix/) | Medium |
+| [0055-jump-game](https://github.com/cm0x0x0x0/leetCode/tree/main/0055-jump-game/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/cm0x0x0x0/leetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/cm0x0x0x0/leetCode/tree/main/0078-subsets/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/cm0x0x0x0/leetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -134,6 +135,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/cm0x0x0x0/leetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0045-jump-game-ii](https://github.com/cm0x0x0x0/leetCode/tree/main/0045-jump-game-ii/) | Medium |
+| [0055-jump-game](https://github.com/cm0x0x0x0/leetCode/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/cm0x0x0x0/leetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0763-partition-labels](https://github.com/cm0x0x0x0/leetCode/tree/main/0763-partition-labels/) | Medium |
 ## Sorting
@@ -249,6 +251,7 @@
 | [0022-generate-parentheses](https://github.com/cm0x0x0x0/leetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0045-jump-game-ii](https://github.com/cm0x0x0x0/leetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/cm0x0x0x0/leetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/cm0x0x0x0/leetCode/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/cm0x0x0x0/leetCode/tree/main/0062-unique-paths/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/cm0x0x0x0/leetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0647-palindromic-substrings](https://github.com/cm0x0x0x0/leetCode/tree/main/0647-palindromic-substrings/) | Medium |
