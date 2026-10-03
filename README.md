@@ -16,6 +16,7 @@
 | [0049-group-anagrams](https://github.com/cm0x0x0x0/leetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/cm0x0x0x0/leetCode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/cm0x0x0x0/leetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/cm0x0x0x0/leetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/cm0x0x0x0/leetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/cm0x0x0x0/leetCode/tree/main/0078-subsets/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/cm0x0x0x0/leetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -74,6 +75,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/cm0x0x0x0/leetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0415-add-strings](https://github.com/cm0x0x0x0/leetCode/tree/main/0415-add-strings/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/cm0x0x0x0/leetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 ## Math
@@ -111,6 +113,7 @@
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/cm0x0x0x0/leetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/cm0x0x0x0/leetCode/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/cm0x0x0x0/leetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/cm0x0x0x0/leetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0463-island-perimeter](https://github.com/cm0x0x0x0/leetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0695-max-area-of-island](https://github.com/cm0x0x0x0/leetCode/tree/main/0695-max-area-of-island/) | Medium |
