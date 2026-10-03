@@ -3,8 +3,8 @@ class Solution:
         result = []
 
         # 1. sorting
-        # intervals.sort(key=lambda x: x[0])
-        intervals = sorted(intervals, key=lambda x: x[0])
+        intervals.sort(key=lambda x: x[0])
+        # intervals = sorted(intervals, key=lambda x: x[0])
         
         # 2. merge range
         curInterval = intervals[0]
