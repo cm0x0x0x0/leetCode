@@ -12,47 +12,35 @@ class Solution:
             (0, -1) # west
         ]
 
-        def dfs(r, c, result):
-            result += board[r][c]
 
-            l = len(result)
-
-            if result != word[:l]:
+        def dfs(r, c, idx):
+            if r < 0 or r >= rowSize or c < 0 or c >= colSize:
                 return False
-            
-            if result == word:
-                print(result, word)
+
+            if (r, c) in visited:
+                return False
+
+            if board[r][c] != word[idx]:
+                return False
+
+            if idx == len(word) - 1:
                 return True
 
+            visited.add((r, c))
+
             for dr, dc in delta:
-                newR = r + dr
-                newC = c + dc
-
-                if newR < 0 or newR >= rowSize:
-                    continue
-                
-                if newC < 0 or newC >= colSize:
-                    continue
-                
-                if (newR, newC) in visited:
-                    continue
-
-                visited.add((newR, newC))
-                b = dfs(newR, newC, result)
-                if b:
+                if dfs(r + dr, c + dc, idx + 1):
                     return True
-                visited.remove((newR, newC))
-                
-            
+
+            visited.remove((r, c))
+
             return False
 
         for i in range(rowSize):
             for j in range(colSize):
-                visited.add((i, j))
-                b = dfs(i, j, "")
+                b = dfs(i, j, 0)
                 if b:
                     return True
-                visited.remove((i, j))
         
         return False
 
