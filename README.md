@@ -23,6 +23,7 @@
 | [0073-set-matrix-zeroes](https://github.com/cm0x0x0x0/leetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/cm0x0x0x0/leetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/cm0x0x0x0/leetCode/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/cm0x0x0x0/leetCode/tree/main/0079-word-search/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/cm0x0x0x0/leetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/cm0x0x0x0/leetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/cm0x0x0x0/leetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -68,6 +69,7 @@
 | [0022-generate-parentheses](https://github.com/cm0x0x0x0/leetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/cm0x0x0x0/leetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/cm0x0x0x0/leetCode/tree/main/0072-edit-distance/) | Medium |
+| [0079-word-search](https://github.com/cm0x0x0x0/leetCode/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/cm0x0x0x0/leetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/cm0x0x0x0/leetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0415-add-strings](https://github.com/cm0x0x0x0/leetCode/tree/main/0415-add-strings/) | Easy |
@@ -97,6 +99,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/cm0x0x0x0/leetCode/tree/main/0079-word-search/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/cm0x0x0x0/leetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/cm0x0x0x0/leetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0463-island-perimeter](https://github.com/cm0x0x0x0/leetCode/tree/main/0463-island-perimeter/) | Easy |
@@ -121,6 +124,7 @@
 | [0054-spiral-matrix](https://github.com/cm0x0x0x0/leetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/cm0x0x0x0/leetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/cm0x0x0x0/leetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/cm0x0x0x0/leetCode/tree/main/0079-word-search/) | Medium |
 | [0463-island-perimeter](https://github.com/cm0x0x0x0/leetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0695-max-area-of-island](https://github.com/cm0x0x0x0/leetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/cm0x0x0x0/leetCode/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -244,6 +248,7 @@
 | [0040-combination-sum-ii](https://github.com/cm0x0x0x0/leetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/cm0x0x0x0/leetCode/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/cm0x0x0x0/leetCode/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/cm0x0x0x0/leetCode/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/cm0x0x0x0/leetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
