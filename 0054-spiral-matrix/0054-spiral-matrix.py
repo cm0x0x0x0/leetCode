@@ -3,46 +3,37 @@ class Solution:
         result = []
         rowSize = len(matrix)
         colSize = len(matrix[0])
-        totalCount = rowSize * colSize
-        visited = set()
-
-        rowIdx = 0
-        colIdx = 0
-
-        def move(row, col):
-            nonlocal rowIdx, colIdx
-            # False : exit
-            if (row, col) in visited:
-                return False
+        top = 0
+        bottom = rowSize-1
+        left = 0
+        right = colSize-1
             
-            visited.add((row,col))
-            result.append(matrix[row][col])
-            rowIdx = row
-            colIdx = col
+        while top <= bottom and left <= right:
+            # 1. col -> right
+            for c in range(left, right+1):
+                result.append(matrix[top][c])
+            top += 1
+
+            # 2. row -> bottom
+            if top > bottom:
+                break
+            for r in range(top, bottom+1):
+                result.append(matrix[r][right])
+            right -= 1
+
+            # 3. col -> left
+            if left > right:
+                break
+            for c in range(right, left-1, -1):
+                result.append(matrix[bottom][c])
+            bottom -= 1
+
+            # 4. row -> top
+            if top > bottom:
+                break
+            for r in range(bottom, top-1, -1):
+                result.append(matrix[r][left])
+            left += 1
             
-        while len(visited) < totalCount:
-            # 1. col -> colEnd
-            for c in range(colSize):
-                exit = move(rowIdx, c)
-                if exit:
-                    break
-
-            # 2. row -> rowEnd
-            for r in range(rowSize):
-                exit = move(r, colIdx)
-                if exit:
-                    break
-
-            # 3. col -> 0
-            for c in range(colIdx-1, -1, -1):
-                exit = move(rowIdx, c)
-                if exit:
-                    break
-
-            # 4. row -> 0
-            for r in range(rowIdx-1, -1, -1):
-                exit = move(r, colIdx)
-                if exit:
-                    break
             
         return result
