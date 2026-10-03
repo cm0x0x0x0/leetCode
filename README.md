@@ -67,6 +67,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/cm0x0x0x0/leetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/cm0x0x0x0/leetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/cm0x0x0x0/leetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0072-edit-distance](https://github.com/cm0x0x0x0/leetCode/tree/main/0072-edit-distance/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/cm0x0x0x0/leetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/cm0x0x0x0/leetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0415-add-strings](https://github.com/cm0x0x0x0/leetCode/tree/main/0415-add-strings/) | Easy |
@@ -259,6 +260,7 @@
 | [0053-maximum-subarray](https://github.com/cm0x0x0x0/leetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/cm0x0x0x0/leetCode/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/cm0x0x0x0/leetCode/tree/main/0062-unique-paths/) | Medium |
+| [0072-edit-distance](https://github.com/cm0x0x0x0/leetCode/tree/main/0072-edit-distance/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/cm0x0x0x0/leetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0647-palindromic-substrings](https://github.com/cm0x0x0x0/leetCode/tree/main/0647-palindromic-substrings/) | Medium |
 ## Union-Find
