@@ -15,6 +15,7 @@
 | [0048-rotate-image](https://github.com/cm0x0x0x0/leetCode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/cm0x0x0x0/leetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/cm0x0x0x0/leetCode/tree/main/0051-n-queens/) | Hard |
+| [0053-maximum-subarray](https://github.com/cm0x0x0x0/leetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/cm0x0x0x0/leetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/cm0x0x0x0/leetCode/tree/main/0078-subsets/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/cm0x0x0x0/leetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -244,6 +245,7 @@
 | [0010-regular-expression-matching](https://github.com/cm0x0x0x0/leetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/cm0x0x0x0/leetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0045-jump-game-ii](https://github.com/cm0x0x0x0/leetCode/tree/main/0045-jump-game-ii/) | Medium |
+| [0053-maximum-subarray](https://github.com/cm0x0x0x0/leetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/cm0x0x0x0/leetCode/tree/main/0062-unique-paths/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/cm0x0x0x0/leetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0647-palindromic-substrings](https://github.com/cm0x0x0x0/leetCode/tree/main/0647-palindromic-substrings/) | Medium |
@@ -257,6 +259,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/cm0x0x0x0/leetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0053-maximum-subarray](https://github.com/cm0x0x0x0/leetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/cm0x0x0x0/leetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/cm0x0x0x0/leetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/cm0x0x0x0/leetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
