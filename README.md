@@ -18,6 +18,7 @@
 | [0053-maximum-subarray](https://github.com/cm0x0x0x0/leetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/cm0x0x0x0/leetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/cm0x0x0x0/leetCode/tree/main/0055-jump-game/) | Medium |
+| [0056-merge-intervals](https://github.com/cm0x0x0x0/leetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/cm0x0x0x0/leetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/cm0x0x0x0/leetCode/tree/main/0078-subsets/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/cm0x0x0x0/leetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -143,6 +144,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/cm0x0x0x0/leetCode/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/cm0x0x0x0/leetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/cm0x0x0x0/leetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/cm0x0x0x0/leetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/cm0x0x0x0/leetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0414-third-maximum-number](https://github.com/cm0x0x0x0/leetCode/tree/main/0414-third-maximum-number/) | Easy |
@@ -318,4 +320,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/cm0x0x0x0/leetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/cm0x0x0x0/leetCode/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
