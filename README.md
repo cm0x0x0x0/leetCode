@@ -41,6 +41,7 @@
 | [0778-swim-in-rising-water](https://github.com/cm0x0x0x0/leetCode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1046-last-stone-weight](https://github.com/cm0x0x0x0/leetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1584-min-cost-to-connect-all-points](https://github.com/cm0x0x0x0/leetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/cm0x0x0x0/leetCode/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -161,6 +162,7 @@
 | [0055-jump-game](https://github.com/cm0x0x0x0/leetCode/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/cm0x0x0x0/leetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0763-partition-labels](https://github.com/cm0x0x0x0/leetCode/tree/main/0763-partition-labels/) | Medium |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/cm0x0x0x0/leetCode/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
