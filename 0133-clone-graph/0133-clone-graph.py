@@ -20,13 +20,8 @@ class Solution:
             new = Node(val=curNode.val)
             maked[new.val] = new
             for neighbor in curNode.neighbors:
-                if neighbor != None:
-                    if new.neighbors == None:
-                        new.neighbors = []
-                    
-                    new.neighbors.append(makeNode(neighbor))
+                new.neighbors.append(makeNode(neighbor))
             
-    
             return new
         
         myNode = makeNode(node)
