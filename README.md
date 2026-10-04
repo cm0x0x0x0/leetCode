@@ -26,6 +26,7 @@
 | [0079-word-search](https://github.com/cm0x0x0x0/leetCode/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/cm0x0x0x0/leetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/cm0x0x0x0/leetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0139-word-break](https://github.com/cm0x0x0x0/leetCode/tree/main/0139-word-break/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/cm0x0x0x0/leetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/cm0x0x0x0/leetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0414-third-maximum-number](https://github.com/cm0x0x0x0/leetCode/tree/main/0414-third-maximum-number/) | Easy |
@@ -46,6 +47,7 @@
 | [0049-group-anagrams](https://github.com/cm0x0x0x0/leetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/cm0x0x0x0/leetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/cm0x0x0x0/leetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0139-word-break](https://github.com/cm0x0x0x0/leetCode/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/cm0x0x0x0/leetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/cm0x0x0x0/leetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/cm0x0x0x0/leetCode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -73,6 +75,7 @@
 | [0072-edit-distance](https://github.com/cm0x0x0x0/leetCode/tree/main/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/cm0x0x0x0/leetCode/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/cm0x0x0x0/leetCode/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0139-word-break](https://github.com/cm0x0x0x0/leetCode/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/cm0x0x0x0/leetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0415-add-strings](https://github.com/cm0x0x0x0/leetCode/tree/main/0415-add-strings/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/cm0x0x0x0/leetCode/tree/main/0434-number-of-segments-in-a-string/) | Easy |
@@ -272,6 +275,7 @@
 | [0062-unique-paths](https://github.com/cm0x0x0x0/leetCode/tree/main/0062-unique-paths/) | Medium |
 | [0072-edit-distance](https://github.com/cm0x0x0x0/leetCode/tree/main/0072-edit-distance/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/cm0x0x0x0/leetCode/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0139-word-break](https://github.com/cm0x0x0x0/leetCode/tree/main/0139-word-break/) | Medium |
 | [0647-palindromic-substrings](https://github.com/cm0x0x0x0/leetCode/tree/main/0647-palindromic-substrings/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -327,6 +331,7 @@
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/cm0x0x0x0/leetCode/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/cm0x0x0x0/leetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
@@ -340,4 +345,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/cm0x0x0x0/leetCode/tree/main/0056-merge-intervals/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/cm0x0x0x0/leetCode/tree/main/0139-word-break/) | Medium |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/cm0x0x0x0/leetCode/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
