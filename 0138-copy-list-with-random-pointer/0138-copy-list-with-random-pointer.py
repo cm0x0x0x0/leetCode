@@ -17,33 +17,18 @@ class Solution:
 
         cur = head
         while cur:
-            node = Node(cur.val)
-            nodeTable[cur] = node
+            nodeTable[cur] = Node(cur.val)
             cur = cur.next
 
         cur = head
         copyCur = copyHead
-        idx = 0
         while cur:
             node = nodeTable[cur]
-            copyCur.next = node
-            if cur.next != None:
-                node.next = nodeTable[cur.next]
-            
+            node.next = nodeTable.get(cur.next)
+            node.random = nodeTable.get(cur.random)
             cur = cur.next
-            copyCur = copyCur.next
         
-
-        cur = head
-        copyCur = copyHead.next 
-        while cur:
-            if cur.random != None:
-                copyCur.random = nodeTable[cur.random]
-            
-            cur = cur.next
-            copyCur = copyCur.next
-        
-        return copyHead.next
+        return nodeTable[head]
         
 
 
