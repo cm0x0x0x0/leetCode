@@ -27,6 +27,7 @@
 | [0090-subsets-ii](https://github.com/cm0x0x0x0/leetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/cm0x0x0x0/leetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/cm0x0x0x0/leetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/cm0x0x0x0/leetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0139-word-break](https://github.com/cm0x0x0x0/leetCode/tree/main/0139-word-break/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cm0x0x0x0/leetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0200-number-of-islands](https://github.com/cm0x0x0x0/leetCode/tree/main/0200-number-of-islands/) | Medium |
@@ -118,6 +119,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/cm0x0x0x0/leetCode/tree/main/0079-word-search/) | Medium |
+| [0130-surrounded-regions](https://github.com/cm0x0x0x0/leetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/cm0x0x0x0/leetCode/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/cm0x0x0x0/leetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/cm0x0x0x0/leetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -132,6 +134,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/cm0x0x0x0/leetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0130-surrounded-regions](https://github.com/cm0x0x0x0/leetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/cm0x0x0x0/leetCode/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/cm0x0x0x0/leetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/cm0x0x0x0/leetCode/tree/main/0463-island-perimeter/) | Easy |
@@ -147,6 +150,7 @@
 | [0073-set-matrix-zeroes](https://github.com/cm0x0x0x0/leetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/cm0x0x0x0/leetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/cm0x0x0x0/leetCode/tree/main/0079-word-search/) | Medium |
+| [0130-surrounded-regions](https://github.com/cm0x0x0x0/leetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/cm0x0x0x0/leetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/cm0x0x0x0/leetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0695-max-area-of-island](https://github.com/cm0x0x0x0/leetCode/tree/main/0695-max-area-of-island/) | Medium |
@@ -312,6 +316,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/cm0x0x0x0/leetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/cm0x0x0x0/leetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/cm0x0x0x0/leetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/cm0x0x0x0/leetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/cm0x0x0x0/leetCode/tree/main/0778-swim-in-rising-water/) | Hard |
