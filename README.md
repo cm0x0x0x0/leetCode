@@ -58,6 +58,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/cm0x0x0x0/leetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/cm0x0x0x0/leetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0133-clone-graph](https://github.com/cm0x0x0x0/leetCode/tree/main/0133-clone-graph/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/cm0x0x0x0/leetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0139-word-break](https://github.com/cm0x0x0x0/leetCode/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/cm0x0x0x0/leetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/cm0x0x0x0/leetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -212,6 +213,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/cm0x0x0x0/leetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/cm0x0x0x0/leetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/cm0x0x0x0/leetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0143-reorder-list](https://github.com/cm0x0x0x0/leetCode/tree/main/0143-reorder-list/) | Medium |
 | [0705-design-hashset](https://github.com/cm0x0x0x0/leetCode/tree/main/0705-design-hashset/) | Easy |
 ## Design
