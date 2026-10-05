@@ -17,9 +17,6 @@ class Solution:
                 
             i = i+1
         
-        if startPoint == len(gas):
-            return -1
-            
         return startPoint
             
         
