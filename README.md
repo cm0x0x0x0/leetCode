@@ -60,6 +60,7 @@
 | [0133-clone-graph](https://github.com/cm0x0x0x0/leetCode/tree/main/0133-clone-graph/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/cm0x0x0x0/leetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0139-word-break](https://github.com/cm0x0x0x0/leetCode/tree/main/0139-word-break/) | Medium |
+| [0146-lru-cache](https://github.com/cm0x0x0x0/leetCode/tree/main/0146-lru-cache/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/cm0x0x0x0/leetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/cm0x0x0x0/leetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/cm0x0x0x0/leetCode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -215,10 +216,12 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/cm0x0x0x0/leetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/cm0x0x0x0/leetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0143-reorder-list](https://github.com/cm0x0x0x0/leetCode/tree/main/0143-reorder-list/) | Medium |
+| [0146-lru-cache](https://github.com/cm0x0x0x0/leetCode/tree/main/0146-lru-cache/) | Medium |
 | [0705-design-hashset](https://github.com/cm0x0x0x0/leetCode/tree/main/0705-design-hashset/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/cm0x0x0x0/leetCode/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/cm0x0x0x0/leetCode/tree/main/0155-min-stack/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/cm0x0x0x0/leetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/cm0x0x0x0/leetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -415,4 +418,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/cm0x0x0x0/leetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/cm0x0x0x0/leetCode/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
