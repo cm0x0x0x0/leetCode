@@ -121,6 +121,7 @@
 | [0371-sum-of-two-integers](https://github.com/cm0x0x0x0/leetCode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0415-add-strings](https://github.com/cm0x0x0x0/leetCode/tree/main/0415-add-strings/) | Easy |
 | [0441-arranging-coins](https://github.com/cm0x0x0x0/leetCode/tree/main/0441-arranging-coins/) | Easy |
+| [0507-perfect-number](https://github.com/cm0x0x0x0/leetCode/tree/main/0507-perfect-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/cm0x0x0x0/leetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
