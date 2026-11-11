@@ -85,6 +85,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/cm0x0x0x0/leetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/cm0x0x0x0/leetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0006-zigzag-conversion](https://github.com/cm0x0x0x0/leetCode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0010-regular-expression-matching](https://github.com/cm0x0x0x0/leetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/cm0x0x0x0/leetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/cm0x0x0x0/leetCode/tree/main/0022-generate-parentheses/) | Medium |
