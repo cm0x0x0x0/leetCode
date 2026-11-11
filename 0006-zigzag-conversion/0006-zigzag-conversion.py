@@ -43,15 +43,10 @@ class Solution:
 
         
         # -- convert matrix to string
-        result = ""
-
+        result = []
         for i in range(numRows):
             for j in range(numCols):
-                if matrix[i][j] == "":
-                    continue
-                
-                result += matrix[i][j]
+                if matrix[i][j] != "":
+                    result.append(matrix[i][j])
 
-        return result
-
-
+        return "".join(result)
