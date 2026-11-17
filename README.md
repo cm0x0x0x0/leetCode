@@ -305,6 +305,7 @@
 | [0079-word-search](https://github.com/cm0x0x0x0/leetCode/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/cm0x0x0x0/leetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/cm0x0x0x0/leetCode/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0401-binary-watch](https://github.com/cm0x0x0x0/leetCode/tree/main/0401-binary-watch/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -312,6 +313,7 @@
 | [0090-subsets-ii](https://github.com/cm0x0x0x0/leetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/cm0x0x0x0/leetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/cm0x0x0x0/leetCode/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0401-binary-watch](https://github.com/cm0x0x0x0/leetCode/tree/main/0401-binary-watch/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
