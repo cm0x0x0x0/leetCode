@@ -46,6 +46,7 @@
 | [0705-design-hashset](https://github.com/cm0x0x0x0/leetCode/tree/main/0705-design-hashset/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/cm0x0x0x0/leetCode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/cm0x0x0x0/leetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [0994-rotting-oranges](https://github.com/cm0x0x0x0/leetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1046-last-stone-weight](https://github.com/cm0x0x0x0/leetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1584-min-cost-to-connect-all-points](https://github.com/cm0x0x0x0/leetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/cm0x0x0x0/leetCode/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
@@ -152,6 +153,7 @@
 | [0463-island-perimeter](https://github.com/cm0x0x0x0/leetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0695-max-area-of-island](https://github.com/cm0x0x0x0/leetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/cm0x0x0x0/leetCode/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0994-rotting-oranges](https://github.com/cm0x0x0x0/leetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/cm0x0x0x0/leetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -167,6 +169,7 @@
 | [0463-island-perimeter](https://github.com/cm0x0x0x0/leetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0695-max-area-of-island](https://github.com/cm0x0x0x0/leetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/cm0x0x0x0/leetCode/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0994-rotting-oranges](https://github.com/cm0x0x0x0/leetCode/tree/main/0994-rotting-oranges/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
