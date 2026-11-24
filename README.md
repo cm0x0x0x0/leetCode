@@ -41,6 +41,7 @@
 | [0455-assign-cookies](https://github.com/cm0x0x0x0/leetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0463-island-perimeter](https://github.com/cm0x0x0x0/leetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0496-next-greater-element-i](https://github.com/cm0x0x0x0/leetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0518-coin-change-ii](https://github.com/cm0x0x0x0/leetCode/tree/main/0518-coin-change-ii/) | Medium |
 | [0621-task-scheduler](https://github.com/cm0x0x0x0/leetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0695-max-area-of-island](https://github.com/cm0x0x0x0/leetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0705-design-hashset](https://github.com/cm0x0x0x0/leetCode/tree/main/0705-design-hashset/) | Easy |
@@ -333,6 +334,7 @@
 | [0131-palindrome-partitioning](https://github.com/cm0x0x0x0/leetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/cm0x0x0x0/leetCode/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/cm0x0x0x0/leetCode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0518-coin-change-ii](https://github.com/cm0x0x0x0/leetCode/tree/main/0518-coin-change-ii/) | Medium |
 | [0647-palindromic-substrings](https://github.com/cm0x0x0x0/leetCode/tree/main/0647-palindromic-substrings/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -437,4 +439,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/cm0x0x0x0/leetCode/tree/main/0146-lru-cache/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0518-coin-change-ii](https://github.com/cm0x0x0x0/leetCode/tree/main/0518-coin-change-ii/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0518-coin-change-ii](https://github.com/cm0x0x0x0/leetCode/tree/main/0518-coin-change-ii/) | Medium |
 <!---LeetCode Topics End-->
